@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "centrScrean", "ConsoleApp4\centrScrean.csproj", "{27C92E2E-9777-4747-B1AE-68604EF509C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exemple", "ConsoleApp4\exemple.csproj", "{27C92E2E-9777-4747-B1AE-68604EF509C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

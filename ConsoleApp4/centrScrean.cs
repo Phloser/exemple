@@ -2,7 +2,7 @@
 
 namespace ConsoleApp4
 {
-    class Program
+    class centrScrean
     {
         static void Main(string[] args)
         {
